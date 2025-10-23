@@ -1,2 +1,1 @@
-Tekenetes means craftsman or artificer in Greek. This organization's purpose is to provide a set of tools to run and manage jobs on Kubenernetes.
-
+Ahplos [ahp-lōs] means uncomplicated or simple in Greek. Providing easy to use, powerful, Kubernetes-centric tools.
